@@ -5,6 +5,10 @@ This code will help you download reservoir storage and elevation data from the C
 
 The CDEC reservoir list can be downloaded from this link: https://cdec.water.ca.gov/reportapp/javareports?name=ResInfo
 
+![image](https://github.com/user-attachments/assets/1b37fba5-5682-45ee-9fa4-54b2cf86c3e4)
+
+![image](https://github.com/user-attachments/assets/3effd34f-74df-48bb-8c07-6614ce37f551)
+
 Stations: The station ID was extracted from the link above and the query search portal (https://cdec.water.ca.gov/dynamicapp/wsSensorData) was used to extract reservoir specific information.
 
 SensorNums: Sensor number are 2, 4, 6, 14, 15, 22, 30, 31, 32, 45, and 65. For details on the sensor information (see figure).
